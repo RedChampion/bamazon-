@@ -28,7 +28,7 @@ This is a node application to:
 ### General Instructions
 
 1. You must be in a terminal session for the directory that contains the application
-1. Use the up/down arrow keys to navigate thru options and lists
+1. Use the up/down arrow keys to navigate through options and lists
 1. Select an option or list item by pressing Enter or Return
 1. The options and lists generally have an _Exit_ item that can be selected to exit the application
 1. Ctrl+c _for windows_ or Command+c _for Mac_ can be used to exit the application at any time
@@ -52,3 +52,6 @@ This is a node application to:
 1. cli-table    provides formatting to display list data in a table (https://www.npmjs.com/package/cli-table)
 1. inquirer     provides framework for user prompts (https://www.npmjs.com/package/inquirer)
 1. mysql        provides connection to MySQL database (https://www.npmjs.com/package/node-mysql)
+
+### Instructions
+![](bamazon.gif)
